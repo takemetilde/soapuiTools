@@ -1,0 +1,3 @@
+[submodule "soapuiTools"]
+	path = soapuiTools
+	url = git@github.com:hongiaher/soapuiTools.git
